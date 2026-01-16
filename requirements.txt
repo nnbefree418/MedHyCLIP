@@ -1,0 +1,26 @@
+# Hyper-MVFA Dependencies
+# Core deep learning framework
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Hyperbolic geometry library (required for Hyper-MVFA)
+geoopt>=0.5.0
+
+# Scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Machine learning utilities
+scikit-learn>=1.0.0
+
+# Image processing
+Pillow>=9.0.0
+kornia>=0.6.0
+
+# Utilities
+tqdm>=4.62.0
+
+# CLIP dependencies
+ftfy>=6.0.0
+regex>=2021.0.0
+
